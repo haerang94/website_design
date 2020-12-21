@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-image: url(https://images.unsplash.com/photo-1508179070693-6f044d6d1c43?ixid=MXwxMjA3fDB8MHxzZWFyY2h8N3x8aG9yaXpvbnRhbHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60);
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar-nav li a {
+    float: right;
+    /* color: #fff !important; */
+}
